@@ -1,16 +1,18 @@
-## Hi there 👋
+## bem vindo ao meu perfil 😳
 
-<!--
-**Marcos17-wq/Marcos17-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e Marcos
 
-Here are some ideas to get you started:
+- estou estuando no [alura] (https://www.alura.com.br)
+  
+etsou me desenvolvendo no javaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*** voce pode entar em contato comigo 📧
+
+ 00001097023400SP@al.educacao.sp.gov.br
+
+
+ 
+ ![](https://media.tenor.com/-95Wd-EVQfEAAAAM/bolsonaro-bolsonaro-ihu.gif)
+
+ 
+
